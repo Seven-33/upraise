@@ -1,14 +1,10 @@
 <div align="center">
+<h1>
+Upraise
+</h1>
 <br>
-    <a href="https://bank.pietrzakadrian.com"> 
-        <img src="https://images.pietrzakadrian.com/logo.png" alt="Bank Application"/>
-    </a>
-
-[**Live Preview**](https://bank.pietrzakadrian.com) | [**Swagger Documentation**](https://api.pietrzakadrian.com/documentation) | [**Contact the developer**](mailto:contact@pietrzakadrian.com)
-
- <hr>
 <h4>
-Full Stack Web Application similar to financial software that is used in professional banking institutions.
+Full Stack Web Application similar to financial software that is used in upraise.
 </h4>
 
 </div>
@@ -29,10 +25,10 @@ Full Stack Web Application similar to financial software that is used in profess
 <hr>
 
 <dl>
-  <h3>Frontend technologies stack (<a href="https://github.com/pietrzakadrian/bank-client"><strong>client</strong></a>)</h3>
+  <h3>Frontend technologies stack (<a href="https://github.com/pietrzakadrian/upraise-client"><strong>client</strong></a>)</h3>
   <dd>JavaScript, <a href="https://github.com/facebook/react">React.js</a>, <a href="https://github.com/reduxjs/react-redux">Redux</a>, <a href="https://github.com/redux-saga/redux-saga/">Redux-Saga</a>, <a href="https://github.com/reduxjs/reselect">Reselect</a>, <a href="https://github.com/immerjs/immer">immer</a>, <a href="https://github.com/ant-design/ant-design">Ant Design</a> and <a href="https://github.com/styled-components/styled-components">styled-components</a></dd>
 
-  <h3>Backend technologies stack (<a href="https://github.com/pietrzakadrian/bank-server"><strong>server</strong></a>)</h3>
+  <h3>Backend technologies stack (<a href="https://github.com/pietrzakadrian/upraise-server"><strong>server</strong></a>)</h3>
   <dd><a href="https://github.com/microsoft/TypeScript">TypeScript</a>, <a href="https://github.com/nodejs/node">Node.js</a>, <a href="https://github.com/nestjs/nest">Nest.js</a>, REST API, PostgreSQL and Swagger Documentation</dd>
 </dl>
 
@@ -47,15 +43,15 @@ Full Stack Web Application similar to financial software that is used in profess
 <h4>Installation</h4>
 
 ```bash
-# 1. Clone the bank repository
-git clone https://github.com/pietrzakadrian/bank
+# 1. Clone the upraise repository
+git clone https://github.com/upraise-dev/upraise
 
-# 2. Enter the bank directory
-cd bank
+# 2. Enter the upraise directory
+cd upraise
 
 # 3. Initialize and clone attached submodules for backend and frontend app
 git submodule init && git submodule update
 ```
 
 <h4>License</h4>
-This project is licensed under the MIT license. Copyright (c) 2019-2020 Adrian Pietrzak.
+This project is licensed under the MIT license. Copyright (c) 2019-2020 Upraise Dev
